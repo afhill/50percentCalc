@@ -3069,7 +3069,7 @@
   border-width:0px;
   position:absolute;
   left:130px;
-  top:970px;
+  top:940px;
   width:570px;
   height:24px;
   font-family:'Lato-Bold', 'Lato Bold', 'Lato';
@@ -3112,7 +3112,7 @@
   border-width:0px;
   position:absolute;
   left:160px;
-  top:1002px;
+  top:972px;
   width:130px;
   height:37px;
   font-family:'Lato ';
@@ -3185,7 +3185,7 @@
   border-width:0px;
   position:absolute;
   left:165px;
-  top:1007px;
+  top:977px;
   width:120px;
   height:27px;
 }
@@ -3236,7 +3236,7 @@
   border-width:0px;
   position:absolute;
   left:130px;
-  top:1002px;
+  top:972px;
   width:30px;
   height:37px;
   font-family:'Lato ';
@@ -3257,7 +3257,7 @@
   border-width:0px;
   position:absolute;
   left:130px;
-  top:1080px;
+  top:1050px;
   width:793px;
   height:120px;
   overflow:hidden;
@@ -3552,7 +3552,7 @@
   border-width:0px;
   position:absolute;
   left:131px;
-  top:1088px;
+  top:1058px;
   width:750px;
   height:66px;
   font-family:'NotoSans-Bold', 'Noto Sans Bold', 'Noto Sans';
@@ -3599,7 +3599,7 @@
   border-width:0px;
   position:absolute;
   left:160px;
-  top:1264px;
+  top:1234px;
   width:130px;
   height:37px;
 }
@@ -3660,7 +3660,7 @@
   border-width:0px;
   position:absolute;
   left:165px;
-  top:1269px;
+  top:1239px;
   width:120px;
   height:27px;
 }
@@ -3707,7 +3707,7 @@
   border-width:0px;
   position:absolute;
   left:314px;
-  top:1278px;
+  top:1248px;
   width:131px;
   height:23px;
   font-family:'NotoSans', 'Noto Sans';
@@ -3780,7 +3780,7 @@
   border-width:0px;
   position:absolute;
   left:130px;
-  top:1264px;
+  top:1234px;
   width:30px;
   height:37px;
   font-family:'NotoSans', 'Noto Sans';
@@ -3827,7 +3827,7 @@
   border-width:0px;
   position:absolute;
   left:130px;
-  top:1232px;
+  top:1202px;
   width:541px;
   height:24px;
   font-family:'Lato-Bold', 'Lato Bold', 'Lato';
@@ -3846,7 +3846,7 @@
   border-width:0px;
   position:absolute;
   left:130px;
-  top:1324px;
+  top:1294px;
   width:793px;
   height:97px;
   overflow:hidden;
@@ -4073,7 +4073,7 @@
   border-width:0px;
   position:absolute;
   left:130px;
-  top:1408px;
+  top:1378px;
   width:1206px;
   height:372px;
   overflow:hidden;
@@ -8710,7 +8710,7 @@
   border-width:0px;
   position:absolute;
   left:130px;
-  top:1331px;
+  top:1301px;
   width:390px;
   height:57px;
   font-family:'Lato';
@@ -8825,7 +8825,7 @@
   border-width:0px;
   position:absolute;
   left:130px;
-  top:919px;
+  top:889px;
   width:298px;
   height:24px;
   font-family:'Lato Semibold', 'Lato';
@@ -8894,7 +8894,7 @@
   border-width:0px;
   position:absolute;
   left:130px;
-  top:1187px;
+  top:1157px;
   width:298px;
   height:24px;
   font-family:'Lato Semibold', 'Lato';
@@ -8936,4 +8936,53 @@
   top:0px;
   width:298px;
   white-space:nowrap;
+}
+#u1212_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1400px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(247, 246, 212, 1);
+  box-sizing:border-box;
+  border-width:4px;
+  border-style:solid;
+  border-color:rgba(248, 158, 16, 1);
+  border-top:0px;
+  border-right:0px;
+  border-bottom:0px;
+  border-radius:0px;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'NotoSans-Bold', 'Noto Sans Bold', 'Noto Sans';
+  font-weight:700;
+  font-style:normal;
+  font-size:15px;
+}
+#u1212 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1400px;
+  height:30px;
+  font-family:'NotoSans-Bold', 'Noto Sans Bold', 'Noto Sans';
+  font-weight:700;
+  font-style:normal;
+  font-size:15px;
+}
+#u1212_text {
+  border-width:0px;
+  position:absolute;
+  left:15px;
+  top:5px;
+  width:1375px;
+  word-wrap:break-word;
 }

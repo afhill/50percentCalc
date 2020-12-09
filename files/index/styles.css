@@ -398,7 +398,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:211px;
+  width:196px;
   height:19px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -420,7 +420,7 @@
   position:absolute;
   left:189px;
   top:575px;
-  width:211px;
+  width:196px;
   height:19px;
   font-family:'Lato Semibold', 'Lato';
   font-weight:600;
@@ -435,7 +435,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:211px;
+  width:196px;
   height:19px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -459,6 +459,6 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:211px;
+  width:196px;
   white-space:nowrap;
 }
